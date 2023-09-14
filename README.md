@@ -1,2 +1,2 @@
-# fiower-shop
+# flower-shop
 HTML and  CSS  Design 
